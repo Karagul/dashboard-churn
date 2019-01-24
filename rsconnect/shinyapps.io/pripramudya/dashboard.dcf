@@ -1,0 +1,10 @@
+name: dashboard
+title:
+username:
+account: pripramudya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 412892
+bundleId: 1561117
+url: https://pripramudya.shinyapps.io/dashboard/
+when: 1535598300.90746
